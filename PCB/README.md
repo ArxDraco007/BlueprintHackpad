@@ -1,2 +1,2 @@
 # PCB Architecture
-ALl my PCB documents!!!
+All my PCB documents!!!

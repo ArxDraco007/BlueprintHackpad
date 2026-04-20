@@ -20,15 +20,16 @@ BOM FILE - https://docs.google.com/spreadsheets/d/1qsAc0E0DF_lVhYs2crAtgfYjfSnlX
 
 4x M3x5mx4mm heatset inserts
 
-1x Case to be entirely 3D-printed (self-provided), iterations may occur.
+1x Case to be entirely 3D-printed (self-provided); iterations may occur.
 
 ## CAD MODEL
 
 The following pictures contain the final design of the expected model.
-<img width="1919" height="1079" alt="Screenshot 2026-03-31 211102" src="https://github.com/user-attachments/assets/74e6304e-5d1f-468d-9d34-05f3885f508b" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-20 165602" src="https://github.com/user-attachments/assets/448fb90c-1411-415c-8eb4-93c5e65bc6ce" />
+
 <img width="860" height="649" alt="image" src="https://github.com/user-attachments/assets/cb45d770-be3d-4d97-b886-f95dff81f85e" />
 
-Separated bottom and top parts - 
+Separated the bottom and top parts - 
 <img width="1519" height="859" alt="image" src="https://github.com/user-attachments/assets/4a68f949-1171-487f-94df-20f44a7e0387" />
 
 
